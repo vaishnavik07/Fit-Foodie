@@ -21,3 +21,6 @@ It shows nutritional value of scanned food
 All the values displayed are in milligrams:
 ![Dashboard](https://user-images.githubusercontent.com/85441257/218383218-e3621e10-cd97-4936-9971-9fe002a53be8.png)
 
+
+Schema for the project:
+![Schema](https://user-images.githubusercontent.com/85441257/218472406-07bca278-9036-474d-9a5a-20a98c88907e.png)
